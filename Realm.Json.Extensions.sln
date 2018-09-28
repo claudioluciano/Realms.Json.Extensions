@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Realm.Json.Extensions", "Realm.Json.Extensions\Realm.Json.Extensions.csproj", "{4180A777-0AA8-479A-ABF5-B0A32D28BE7F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Realms.Json.Extensions", "Realm.Json.Extensions\Realms.Json.Extensions.csproj", "{4180A777-0AA8-479A-ABF5-B0A32D28BE7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Realms.JsonExtensions.Test", "Realm.JsonExtensions.Test\Realms.JsonExtensions.Test.csproj", "{8BED5479-41E7-4168-B511-F7DC898203C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{4180A777-0AA8-479A-ABF5-B0A32D28BE7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4180A777-0AA8-479A-ABF5-B0A32D28BE7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4180A777-0AA8-479A-ABF5-B0A32D28BE7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BED5479-41E7-4168-B511-F7DC898203C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BED5479-41E7-4168-B511-F7DC898203C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BED5479-41E7-4168-B511-F7DC898203C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BED5479-41E7-4168-B511-F7DC898203C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
